@@ -39,7 +39,7 @@
 - [ ] 👀 Create Swift Package plugins
 - [ ] 🤷🏻‍♂️ Use Xcode for server-side development
 
-⬇️ Low Priority
+## Low Priority
 
 - [ ] ⬇️ Swift Regex: Beyond the basics
 - [ ] ⬇️ Demystify parallelization in Xcode build
