@@ -3,8 +3,8 @@
 ## 7th June
 
 - [ ] 👀 Build your first app in Swift Playgrounds
-- [ ] 🔥 Get to know Developer Mode
-- [ ] 🔥 Meet Swift Async Algorithms
+- [ ] 👀 Get to know Developer Mode
+- [ ] 👀 Meet Swift Async Algorithms
 - [ ] 🤷🏻‍♂️ Meet Swift Regex
 - [ ] 🔥 The SwiftUI cookbook for navigation
 - [ ] 👀 Visualize and optimize Swift concurrency 
@@ -15,21 +15,20 @@
 
 ## 8th June
 
-- [ ] 🤷🏻‍♂️ Create engaging content for Swift Playgrounds
 - [ ] 👀 Build global apps: Localization by example
 - [ ] 🔥 Compose custom layouts with SwiftUI
-- [ ] 🤷🏻‍♂️ Eliminate data races using Swift Concurrency
+- [ ] 👀 Eliminate data races using Swift Concurrency
 - [ ] 👀 Embrace Swift generics
 - [ ] 👀 Link fast: Improve build and launch times 
-- [ ] 🤷🏻‍♂️ Meet distributed actors in Swift
+- [ ] 🔥 Meet distributed actors in Swift
 - [ ] 👀 Use Xcode to develop a multiplatform app
 
 ## 9th June
 
-- [ ] 👀 Debug Swift debugging with LLDB
-- [ ] 👀 Design protocol interfaces in Swift 
+- [ ] 🤷🏻‍♂️ Debug Swift debugging with LLDB
+- [ ] 🔥 Design protocol interfaces in Swift 
 - [ ] 🔥 Explore navigation design for iOS
-- [ ] 🔥 Improve app size and runtime performance
+- [ ] 👀 Improve app size and runtime performance
 - [ ] 👀 Meet Swift Package plugins
 - [ ] 🤷🏻‍♂️ Reduce networking delays for a more responsive app
 - [ ] 🔥 The craft of SwiftUI API design: Progressive disclosure
@@ -44,6 +43,7 @@
 
 ## Low Priority
 
+- [ ] ⬇️ Create engaging content for Swift Playgrounds
 - [ ] ⬇️ Swift Regex: Beyond the basics
 - [ ] ⬇️ Demystify parallelization in Xcode build
 - [ ] ⬇️ Build a productivity app for Apple Watch
