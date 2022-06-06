@@ -5,6 +5,7 @@
 - [ ] 👀 Build your first app in Swift Playgrounds
 - [ ] 🔥 Get to know Developer Mode
 - [ ] 🔥 Meet Swift Async Algorithms
+- [ ] 🤷🏻‍♂️ Meet Swift Regex
 - [ ] 🔥 The SwiftUI cookbook for navigation
 - [ ] 👀 Visualize and optimize Swift concurrency 
 - [ ] 👀 What's new in Swift
@@ -17,6 +18,7 @@
 - [ ] 🤷🏻‍♂️ Create engaging content for Swift Playgrounds
 - [ ] 👀 Build global apps: Localization by example
 - [ ] 🔥 Compose custom layouts with SwiftUI
+- [ ] 🤷🏻‍♂️ Eliminate data races using Swift Concurrency
 - [ ] 👀 Embrace Swift generics
 - [ ] 👀 Link fast: Improve build and launch times 
 - [ ] 🤷🏻‍♂️ Meet distributed actors in Swift
@@ -37,6 +39,7 @@
 ## 10th June
 
 - [ ] 👀 Create Swift Package plugins
+- [ ] 👀 Efficiency awaits: Background tasks in SwiftUI
 - [ ] 🤷🏻‍♂️ Use Xcode for server-side development
 
 ## Low Priority
@@ -48,4 +51,5 @@
 - [ ] ⬇️ Streamline local authorization flows
 - [ ] ⬇️ What's new in WKWebView
 - [ ] ⬇️ What's new with in-app purchase
-- [ ] ⬇️ Meet Swift Regex
+- [ ] ⬇️ Hello Swift Charts
+- [ ] ⬇️ Meet passkeys
